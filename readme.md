@@ -10,8 +10,8 @@ Using R, we will practice applying various data analysis and modeling techniques
 ## Project Goals  
 Gain familiarity with the following:
 
-1. Multiple linear regression
-    a. Using regression for causal inference
+1. Multiple linear regression<br>
+    a. Using regression for causal inference<br>
     b. Using regression for predictive modeling
 2. Data Visualization
 3. Working with Panel Data
